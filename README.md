@@ -14,7 +14,7 @@ This repository serves as a platform to showcase skills, share projects and trac
 
 ### Table of Contents
 
-- [About](README.md)
+- [About](### About)
 
 - Portfolio Projects
   - Python
