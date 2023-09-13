@@ -27,7 +27,7 @@ This repository serves as a platform to showcase skills, share projects and trac
     - Legendary Pokémon Analysis (Study Project)
   - Excel / Google Sheets
   - Tableau---> go to Tableau..
-  - Power BI
+  
 - Education
 
 - Certificates
