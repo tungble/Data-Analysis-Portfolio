@@ -14,7 +14,7 @@ This repository serves as a platform to showcase skills, share projects and trac
 
 ### Table of Contents
 
-- [About](### About)
+- [About](###-about)
 
 - Portfolio Projects
   - Python
