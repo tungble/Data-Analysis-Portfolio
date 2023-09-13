@@ -12,7 +12,7 @@ My CV in [pdf](TungLe_resume.pdf).
 
 This repository serves as a platform to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
-###Table of Contents
+### Table of Contents
 
 - [About](###about)
 
