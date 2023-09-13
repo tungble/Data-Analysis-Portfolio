@@ -1,6 +1,6 @@
 # Tung Le - Data Analyst Portfolio
 
-### About
+## About
 
 Hi, I'm Tung! I have an analytical background in Nutritional Sciences and currently, I am on track to completing my degree in Business Analytics (MS. Business Analytics). I have developed a strong foundation in the life sciences and a passion for leveraging data to discover meaningful insights. I am excited to bring my technical and analytical skills to the domain of data analytics as an entry-level data analyst.
 
@@ -12,14 +12,11 @@ My CV in [pdf](TungLe_resume.pdf).
 
 This repository serves as a platform to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
-### Table of Contents
+## Table of Contents
 
-- [About](###-about)
+- [About](##-about)
 
 - Portfolio Projects
-  - Python
-    - Analyzing the Factors Contributing to the Success of a Movie
-    - Tech Store Sales Analysis
   - SQL
     - Covid 19 Data Exploration
     - Nashville Housing Data Cleaning
@@ -33,3 +30,19 @@ This repository serves as a platform to showcase skills, share projects and trac
 - Certificates
 
 - Contact
+
+## Portfolio Projects
+In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
+### Analyzing the Factors Contributing to the Success of a Movie
+**Code:** Analyzing the Factors Contributing to the Success of a Movie.ipynb
+
+**Goal:** To determine what factors contribute the most to a movie's success.
+
+**Description:** The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
+
+**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+
+**Results:** Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
