@@ -1,6 +1,6 @@
 # Tung Le - Data Analyst Portfolio
 
-# About
+### About
 
 Hi, I'm Tung! I have an analytical background in Nutritional Sciences and currently, I am on track to completing my degree in Business Analytics (MS. Business Analytics). I have developed a strong foundation in the life sciences and a passion for leveraging data to discover meaningful insights. I am excited to bring my technical and analytical skills to the domain of data analytics as an entry-level data analyst.
 
@@ -12,9 +12,9 @@ My CV in [pdf](TungLe_resume.pdf).
 
 This repository serves as a platform to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
-# Table of Contents
+### Table of Contents
 
-- [About](#-about)
+- [About](###-about)
 
 - Portfolio Projects
   - Python
