@@ -14,9 +14,9 @@ This repository serves as a platform to showcase skills, share projects and trac
 
 ## Table of Contents
 
-- [About](##-about)
+- [About](## about)
 
-- [Portfolio Projects](##-portfolio-projects)
+- [Portfolio Projects](## portfolio-projects)
   - SQL
     - Covid 19 Data Exploration
     - Nashville Housing Data Cleaning
