@@ -18,7 +18,7 @@ This repository serves as a platform to showcase skills, share projects and trac
 
 - [Portfolio Projects](#portfolio-projects)
   - R
-    - Bikeshare Ridership Volume Prediction (Machine Learning Project)
+    - Bikeshare Rider Volume Forecast (Machine Learning Project)
   - SQL
     - Covid 19 Data Exploration
     - Nashville Housing Data Cleaning
@@ -33,9 +33,9 @@ This repository serves as a platform to showcase skills, share projects and trac
 
 <a name="portfolio-projects"></a>
 ## Portfolio Projects
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+In this section I will briefly list data analytics projects describing the technology stack used to solve cases.
 
-### Analyzing the Factors Contributing to the Success of a Movie
+### Bikeshare Rider Volume Forecast
 **Code:** Analyzing the Factors Contributing to the Success of a Movie.ipynb
 
 **Goal:** To determine what factors contribute the most to a movie's success.
