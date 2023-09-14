@@ -36,7 +36,7 @@ This repository serves as a platform to showcase skills, share projects and trac
 In this section I will briefly list data analytics projects describing the technology stack used to solve cases.
 
 ### Bikeshare Rider Volume Forecast
-**Code:** [Bikeshare Total Ridership Prediction.R](https://github.com/tungble/Machine-Learning-in-R/blob/473bd810ca96d92b547b0bcab7880388ba83597f/Bikeshare%20Total%20Ridership%20Prediction.R)
+**Code:** [Bikeshare Rider Volume Forecast.R](https://github.com/tungble/Machine-Learning-in-R/blob/03626eac0fd50a2658f64cae2b74a2b5342cd865/Bikeshare%20Rider%20Volume%20Forecast)
 
 **Goal:** To determine what factors contribute the most to a movie's success.
 
