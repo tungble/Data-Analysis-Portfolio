@@ -18,7 +18,7 @@ This repository serves as a platform to showcase skills, share projects and trac
 
 - [Portfolio Projects](#portfolio-projects)
   - R
-    - Bikeshare Rider Volume Forecast (Machine Learning Project)
+    - [Bikeshare Rider Volume Forecast (Machine Learning Project)](#bikeshare)
   - SQL
     - Covid 19 Data Exploration
     - Nashville Housing Data Cleaning
@@ -34,7 +34,7 @@ This repository serves as a platform to showcase skills, share projects and trac
 <a name="portfolio-projects"></a>
 ## Portfolio Projects
 In this section I will briefly list data analytics projects describing the technology stack used to solve cases.
-
+<a name="bikeshare"></a>
 ### Bikeshare Rider Volume Forecast
 **Code:** [Bikeshare Rider Volume Forecast.R](https://github.com/tungble/Machine-Learning-in-R/blob/d700dc991641a42c4055539eb8a6e9b34d27cc4b/Bikeshare%20Rider%20Volume%20Forecast.R)
 
