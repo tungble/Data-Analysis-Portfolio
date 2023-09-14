@@ -23,7 +23,7 @@ This repository serves as a platform to showcase skills, share projects and trac
     - Covid 19 Data Exploration
     - Nashville Housing Data Cleaning
   - Excel / Google Sheets
-  - Tableau---> go to Tableau..
+  - [Tableau](https://public.tableau.com/app/profile/tung.le1094)
   
 - Education
 
@@ -38,12 +38,14 @@ In this section I will briefly list data analytics projects describing the techn
 ### Bikeshare Rider Volume Forecast
 **Code:** [Bikeshare Rider Volume Forecast.R](https://github.com/tungble/Machine-Learning-in-R/blob/d700dc991641a42c4055539eb8a6e9b34d27cc4b/Bikeshare%20Rider%20Volume%20Forecast.R)
 
-**Goal:** To determine what factors contribute the most to a movie's success.
+**Goals:** 
+1. Determine what factors contribute the most to ridership volume
+2. Forecast ridership volume
 
-**Description:** The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
+**Description:** The project focused on analyzing a dataset of bikeshare ridership from January 2011 through December 2012. The dataset included season, holiday, workingday, weathear, temperature, humidity, windspeed, ridership type, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), performing multivariate analysis to analyze the correlation between external factors and ridership types, and forecasting rider volume using 4 ML algorithms: linear regression, regression tree, knn regression, and ensemble learning. 
 
-**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+**Skills:** data cleaning, data analysis, multivariate analysis, hypothesis testing, machine learning, data visualization.
 
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+**Technology:** R, rpart, Numpy, Seaborn, Matplotlib, SciPy.
 
 **Results:** Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
