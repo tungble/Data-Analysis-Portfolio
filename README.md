@@ -34,14 +34,14 @@ This repository serves as a platform to showcase skills, share projects and trac
 <a name="portfolio-projects"></a>
 ## Portfolio Projects
 In this section I will briefly list data analytics projects describing the technology stack used to solve cases.
-
+<a name="bikeshare"></a>
 ### Bikeshare Rider Volume Forecast
 **Code:** [Bikeshare Rider Volume Forecast.R](https://github.com/tungble/Machine-Learning-in-R/blob/d700dc991641a42c4055539eb8a6e9b34d27cc4b/Bikeshare%20Rider%20Volume%20Forecast.R)
 
 **Goal:** To determine what factors contribute the most to a movie's success.
 
 **Description:** The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
-<a name="bikeshare"></a>
+
 **Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
