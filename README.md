@@ -36,7 +36,7 @@ This repository serves as a platform to showcase skills, share projects and trac
 In this section I will briefly list data analytics projects describing the technology stack used to solve cases.
 
 ### Bikeshare Rider Volume Forecast
-**Code:** Analyzing the Factors Contributing to the Success of a Movie.ipynb
+**Code:** [Bikeshare Total Ridership Prediction.R](https://github.com/tungble/Machine-Learning-in-R/blob/473bd810ca96d92b547b0bcab7880388ba83597f/Bikeshare%20Total%20Ridership%20Prediction.R)
 
 **Goal:** To determine what factors contribute the most to a movie's success.
 
