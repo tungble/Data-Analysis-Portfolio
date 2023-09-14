@@ -16,12 +16,12 @@ This repository serves as a platform to showcase skills, share projects and trac
 
 - [About](#about)
 
-- [Portfolio Projects](##-portfolio-projects)
+- [Portfolio Projects](#portfolio-projects)
+  - R
+    - Bikeshare Ridership Volume Prediction (Machine Learning Project)
   - SQL
     - Covid 19 Data Exploration
     - Nashville Housing Data Cleaning
-  - R
-    - Legendary Pokémon Analysis (Study Project)
   - Excel / Google Sheets
   - Tableau---> go to Tableau..
   
@@ -31,6 +31,7 @@ This repository serves as a platform to showcase skills, share projects and trac
 
 - Contact
 
+<a name="portfolio-projects"></a>
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
