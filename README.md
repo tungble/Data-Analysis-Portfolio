@@ -2,7 +2,7 @@
 <a name="about"></a>
 ## About
 
-Hi, I'm Tung! I have an analytical background in Nutritional Sciences and currently, I am on track to completing my degree in Business Analytics (MS. Business Analytics). I have developed a strong foundation in the life sciences and a passion for leveraging data to discover meaningful insights. I am excited to bring my technical and analytical skills to the domain of data analytics as an entry-level data analyst.
+Hi, I'm Tung! I have an analytical background in Nutritional Sciences and currently, I am on track to completing my degree in Business Analytics (MSc Business Analytics). I have developed a strong foundation in the life sciences and a passion for leveraging data to discover meaningful insights. I am excited to bring my technical and analytical skills to the domain of data analytics as an entry-level data analyst.
 
 During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data analyst.
 
@@ -46,6 +46,8 @@ In this section I will briefly list data analytics projects describing the techn
 
 **Skills:** data cleaning, data analysis, multivariate analysis, hypothesis testing, machine learning, data visualization.
 
-**Technology:** R, rpart, Numpy, Seaborn, Matplotlib, SciPy.
+**Technology:** R, lubridate, caret, rpart, rpart.plot, Metrics.
 
-**Results:** Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
+**Results:** 
+
+Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
