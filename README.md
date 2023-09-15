@@ -33,7 +33,7 @@ This repository serves as a platform to showcase skills, share projects and trac
 ## Portfolio Projects
 In this section I will briefly list data analytics projects describing the technology stack used to solve cases.
 <a name="bikeshare"></a>
-### Bikeshare Rider Volume Forecast
+### Bikeshare Rider Volume Forecast (Machine Learning Project)
 **Code:** [Bikeshare Rider Volume Forecast.R](https://github.com/tungble/PortfolioProjects/blob/311a8965dc22fc60c8807f4f33a509219cff5875/Bikeshare%20Rider%20Volume%20Forecast.R)
 
 **Goals:** 
