@@ -69,3 +69,7 @@ Babson College: Master of Science - MS, Business Analytics, Sep 2022 - Dec 2023
 University of Wisconsin-Madison: Bachelor's degree, Nutritional Science and Dietetics, 2019 - 2021
 
 Madison Area Technical College: Liberal Arts Transfer, Science and Mathematics, 2017 - 2019
+
+## Contacts
+LinkedIn: [tungle0312/](https://www.linkedin.com/in/tungle0312/)
+Email: bill.lee107@gmail.com
