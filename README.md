@@ -56,10 +56,10 @@ In this section I will briefly list data analytics projects describing the techn
 
 **Goals:** 
 
-**Description:** The project focused on analyzing a dataset of bikeshare ridership from January 2011 through December 2012. The dataset included season, holiday, workingday, weathear, temperature, humidity, windspeed, ridership type, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), performing multivariate analysis to analyze the correlation between external factors and ridership types, and forecasting rider volume using 4 ML algorithms: linear regression, regression tree, knn regression, and ensemble learning. 
+**Description:** 
 
 **Skills:** data cleaning, text-processing, data transformation, aggreagate functions, join functions, route optimization, performance measurement, data visualization.
 
 **Technology:** R, tidyverse, dplyr, tidyr, tidygeocoder, stringr, psych, textclean, qdapRegex, Hmisc, lavaan, lubridate, geosphere, readxl, magrittr
 
-**Results:** Using ML algorithms the analysis revealed that time is the strongest predictor of ridership, with peak hours in the early morning (7:00-9:00 AM), noon (12:00-1:00 PM), and late afternoon/evening (3:00-8:00 PM), while specific month or weekday have no significant impact.
+**Results:** 
