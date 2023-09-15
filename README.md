@@ -46,7 +46,9 @@ In this section I will briefly list data analytics projects describing the techn
 
 **Technology:** R, lubridate, caret, rpart, rpart.plot, Metrics.
 
-**Results:** Using ML algorithms the analysis revealed that time is the strongest predictor of ridership, with peak hours in the early morning (7:00-9:00 AM), noon (12:00-1:00 PM), and late afternoon/evening (3:00-8:00 PM), while specific month or weekday have no significant impact.
+**Results:** 
+1. Multivariate analysis revealed that time is the strongest predictor of ridership, with peak hours in the early morning (7:00-9:00 AM), noon (12:00-1:00 PM), and late afternoon/evening (3:00-8:00 PM), while specific month or weekday have no significant impact.
+2. Ensemble learning is the most optimal ML model for predicting rider volume, outperforming the benchmark RMSE and MAPE by a multiple of 2.5 and 10 respectively.
 
 <a name="gi-junk"></a>
 ### Junk Removal Company Operations Analysis & Optimization
