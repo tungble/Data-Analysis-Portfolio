@@ -25,8 +25,6 @@ This repository serves as a platform to showcase skills, share projects and trac
   
 - Education
 
-- Certificates
-
 - Contact
 
 <a name="portfolio-projects"></a>
