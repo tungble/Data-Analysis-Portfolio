@@ -50,7 +50,7 @@ In this section I will briefly list data analytics projects describing the techn
 
 <a name="gi-junk"></a>
 ### Junk Removal Company Operations Analysis & Optimization
-**Code:** [Bikeshare Rider Volume Forecast.R](https://github.com/tungble/PortfolioProjects/blob/311a8965dc22fc60c8807f4f33a509219cff5875/Junk%20Removal%20Company%20Operations%20Analysis%20%26%20Optimization.Rmd)
+**Code:** [Junk Removal Company Operations Analysis & Optimization.Rmd](https://github.com/tungble/PortfolioProjects/blob/311a8965dc22fc60c8807f4f33a509219cff5875/Junk%20Removal%20Company%20Operations%20Analysis%20%26%20Optimization.Rmd)
 
 **Goals:** 
 1. Determine what factors contribute the most to ridership volume
