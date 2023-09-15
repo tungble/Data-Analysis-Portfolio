@@ -19,7 +19,7 @@ This repository serves as a platform to showcase skills, share projects and trac
 - [Portfolio Projects](#portfolio-projects)
   - R
     - [Bikeshare Rider Volume Forecast (Machine Learning Project)](#bikeshare)
-    - [Junk Removal Company Operations Analysis & Optimization]
+    - [Junk Removal Company Operations Analysis & Optimization](#GI-Junk)
   - Excel / Google Sheets
   - [Tableau](https://public.tableau.com/app/profile/tung.le1094)
   
@@ -33,6 +33,22 @@ This repository serves as a platform to showcase skills, share projects and trac
 ## Portfolio Projects
 In this section I will briefly list data analytics projects describing the technology stack used to solve cases.
 <a name="bikeshare"></a>
+### Bikeshare Rider Volume Forecast
+**Code:** [Bikeshare Rider Volume Forecast.R](https://github.com/tungble/Machine-Learning-in-R/blob/d700dc991641a42c4055539eb8a6e9b34d27cc4b/Bikeshare%20Rider%20Volume%20Forecast.R)
+
+**Goals:** 
+1. Determine what factors contribute the most to ridership volume
+2. Forecast ridership volume
+
+**Description:** The project focused on analyzing a dataset of bikeshare ridership from January 2011 through December 2012. The dataset included season, holiday, workingday, weathear, temperature, humidity, windspeed, ridership type, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), performing multivariate analysis to analyze the correlation between external factors and ridership types, and forecasting rider volume using 4 ML algorithms: linear regression, regression tree, knn regression, and ensemble learning. 
+
+**Skills:** data cleaning, data analysis, multivariate analysis, hypothesis testing, machine learning, data visualization.
+
+**Technology:** R, lubridate, caret, rpart, rpart.plot, Metrics.
+
+**Results:** Using ML algorithms the analysis revealed that time is the strongest predictor of ridership, with peak hours in the early morning (7:00-9:00 AM), noon (12:00-1:00 PM), and late afternoon/evening (3:00-8:00 PM), while specific month or weekday have no significant impact.
+
+<a name="GI Junk"></a>
 ### Bikeshare Rider Volume Forecast
 **Code:** [Bikeshare Rider Volume Forecast.R](https://github.com/tungble/Machine-Learning-in-R/blob/d700dc991641a42c4055539eb8a6e9b34d27cc4b/Bikeshare%20Rider%20Volume%20Forecast.R)
 
