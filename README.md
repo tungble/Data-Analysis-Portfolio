@@ -71,5 +71,5 @@ University of Wisconsin-Madison: Bachelor's degree, Nutritional Science and Diet
 Madison Area Technical College: Liberal Arts Transfer, Science and Mathematics, 2017 - 2019
 
 ## Contacts
-- LinkedIn: [tungle0312/](https://www.linkedin.com/in/tungle0312/)
+- LinkedIn: [tungle0312](https://www.linkedin.com/in/tungle0312/)
 - Email: bill.lee107@gmail.com
