@@ -19,7 +19,7 @@ This repository serves as a platform to showcase skills, share projects and trac
 - [Portfolio Projects](#portfolio-projects)
   - R
     - [Bikeshare Rider Volume Forecast (Machine Learning Project)](#bikeshare)
-    - [Junk Removal Company Operations Analysis & Optimization](#GIJunk)
+    - [Junk Removal Company Operations Analysis & Optimization](#gi-junk)
   - Excel / Google Sheets
   - [Tableau](https://public.tableau.com/app/profile/tung.le1094)
   
@@ -48,8 +48,8 @@ In this section I will briefly list data analytics projects describing the techn
 
 **Results:** Using ML algorithms the analysis revealed that time is the strongest predictor of ridership, with peak hours in the early morning (7:00-9:00 AM), noon (12:00-1:00 PM), and late afternoon/evening (3:00-8:00 PM), while specific month or weekday have no significant impact.
 
-<a name="GIJunk"></a>
-### Bikeshare Rider Volume Forecast
+<a name="gi-junk"></a>
+### Junk Removal Company Operations Analysis & Optimization
 **Code:** [Bikeshare Rider Volume Forecast.R](https://github.com/tungble/Machine-Learning-in-R/blob/d700dc991641a42c4055539eb8a6e9b34d27cc4b/Bikeshare%20Rider%20Volume%20Forecast.R)
 
 **Goals:** 
