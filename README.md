@@ -44,7 +44,7 @@ In this section I will briefly list data analytics projects describing the techn
 
 **Skills:** multivariate analysis, hypothesis testing, data cleaning, data analysis, machine learning, data visualization.
 
-**Technology:** R, lubridate, caret, rpart, rpart.plot, Metrics.
+**Technology:** R, caret, rpart, rpart.plot, lubridate, Metrics.
 
 **Results:** 
 1. Multivariate analysis revealed that time is the strongest predictor of ridership, with peak hours in the early morning (7:00-9:00 AM), noon (12:00-1:00 PM), and late afternoon/evening (3:00-8:00 PM), while specific month or weekday have no significant impact.
