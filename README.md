@@ -61,3 +61,11 @@ In this section I will briefly list data analytics projects describing the techn
 **Technology:** R, tidyverse, dplyr, tidyr, tidygeocoder, stringr, psych, textclean, qdapRegex, Hmisc, lavaan, lubridate, geosphere, readxl, magrittr
 
 **Results:** 
+
+## Education
+
+Babson College: Master of Science - MS, Business Analytics, Sep 2022 - Dec 2023
+
+University of Wisconsin-Madison: Bachelor's degree, Nutritional Science and Dietetics, 2019 - 2021
+
+Pre-University School: Liberal Arts Transfer, Science and Mathematics, 2017 - 2019
