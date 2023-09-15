@@ -19,9 +19,6 @@ This repository serves as a platform to showcase skills, share projects and trac
 - [Portfolio Projects](#portfolio-projects)
   - R
     - [Bikeshare Rider Volume Forecast (Machine Learning Project)](#bikeshare)
-  - SQL
-    - Covid 19 Data Exploration
-    - Nashville Housing Data Cleaning
   - Excel / Google Sheets
   - [Tableau](https://public.tableau.com/app/profile/tung.le1094)
   
