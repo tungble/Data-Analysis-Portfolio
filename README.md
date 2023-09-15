@@ -68,4 +68,4 @@ Babson College: Master of Science - MS, Business Analytics, Sep 2022 - Dec 2023
 
 University of Wisconsin-Madison: Bachelor's degree, Nutritional Science and Dietetics, 2019 - 2021
 
-Pre-University School: Liberal Arts Transfer, Science and Mathematics, 2017 - 2019
+Madison Area Technical College: Liberal Arts Transfer, Science and Mathematics, 2017 - 2019
