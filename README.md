@@ -52,15 +52,15 @@ In this section I will briefly list data analytics projects describing the techn
 ### Junk Removal Company Operations Analysis & Optimization
 **Code:** [Junk Removal Company Operations Analysis & Optimization.Rmd](https://github.com/tungble/PortfolioProjects/blob/311a8965dc22fc60c8807f4f33a509219cff5875/Junk%20Removal%20Company%20Operations%20Analysis%20%26%20Optimization.Rmd)
 
-**Goals:** 
+**Goal:** Implement an optimized staff allocation system for efficient scheduling based on job distances and service types.
 
-**Description:** 
+**Description:** 3-month project consulting a company in the junk removal industry operating in 2 states. Worked with the CEO to identify 3 key business problems. Performed data preprocessing, cleaning, and consolidation of the company's OMS, marketing data (social media, calls and leads records), and financial data. Conducted exploratory data analysis (EDA) and integrated them with field service KPIs to assess operational efficacy and areas for enhancement. Utilized R and text-processing packages to automate data cleaning process, eliminating manual errors. Compiled a report and presented to the founder with 4 strategic recommendations.
 
 **Skills:** data cleaning, text-processing, data transformation, aggreagate functions, join functions, route optimization, performance measurement, data visualization.
 
 **Technology:** R, tidyverse, dplyr, tidyr, tidygeocoder, stringr, psych, textclean, qdapRegex, Hmisc, lavaan, lubridate, geosphere, readxl, magrittr
 
-**Results:** 
+**Results:** Increase revenue by $300K+ annually through enhanced staffing, scheduling, and routing strategies, enabling at least one additional field service trip per day. Devised a method to increase projected growth by 124% without requiring additional resources.
 
 ## Education
 
