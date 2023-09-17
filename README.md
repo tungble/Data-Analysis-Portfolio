@@ -54,7 +54,7 @@ In this section I will briefly list data analytics projects describing the techn
 
 **Goal:** Implement an optimized staff allocation system for efficient scheduling based on job distances and service types.
 
-**Description:** 3-month project consulting a company in the junk removal industry operating in 2 states. Worked with the CEO to identify 3 key business problems. Performed data preprocessing, cleaning, and consolidation of the company's OMS, marketing data (social media, calls and leads records), and financial data. Conducted exploratory data analysis (EDA) and integrated them with field service KPIs to assess operational efficacy and areas for enhancement. Utilized R and text-processing packages to automate data cleaning process, eliminating manual errors. Compiled a report and presented to the founder with 4 strategic recommendations.
+**Description:** 3-month project consulting a junk removal company operating in 2 states. Worked with the CEO to identify 3 key business problems. Performed data preprocessing, cleaning, and consolidation of the company's OMS, marketing data (social media, calls and leads records), and financial data. Conducted exploratory data analysis (EDA) and integrated them with field service KPIs to assess operational efficacy and areas for enhancement. Utilized R and text-processing packages to automate data cleaning process, eliminating manual errors. Compiled a report and presented to the founder with 4 strategic recommendations.
 
 **Skills:** data cleaning, text-processing, data transformation, aggreagate functions, join functions, route optimization, performance measurement, data visualization.
 
