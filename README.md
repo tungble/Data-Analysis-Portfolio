@@ -50,7 +50,7 @@ In this section I will briefly list data analytics projects describing the techn
 
 <a name="gi-junk"></a>
 ### Junk Removal Company Operations Analysis & Optimization
-**Code:** [Junk Removal Company Operations Analysis & Optimization.Rmd](https://github.com/tungble/PortfolioProjects/blob/311a8965dc22fc60c8807f4f33a509219cff5875/Junk%20Removal%20Company%20Operations%20Analysis%20%26%20Optimization.Rmd)
+**Code:** [Junk Removal Company Operations Analysis & Optimization.Rmd](https://github.com/tungble/PortfolioProjects/blob/ab887410936792310ad302e0f4c43b6d0198339c/Junk%20Removal%20Company%20Operations%20Analysis%20%26%20Optimization.Rmd)
 
 **Goal:** Implement an optimized staff allocation system for efficient scheduling based on job distances and service types.
 
